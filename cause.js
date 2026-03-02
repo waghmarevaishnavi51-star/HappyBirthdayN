@@ -16,7 +16,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "Stay the wonderful soul you are—always making me smile and filling my life with joy. I’m so lucky to have you. Have the happiest year ahead, my love! 🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
